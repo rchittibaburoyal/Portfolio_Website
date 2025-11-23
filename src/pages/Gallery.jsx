@@ -8,42 +8,10 @@ const IMAGES = {
     {
       id: 1,
       caption: "Lost in the beauty of the misty forest 🌲🌫️",
-      photos: ["/gallery/matheran.jpg", "/gallery/matheran2.jpg"],
-    },
-    {
-      id: 2,
-      caption:
-        "Weekend getaway to clear my head 🌄 Sometimes inspiration strikes when you’re away from the screen.",
-      photos: ["/gallery/lonawala.jpg", "/gallery/lonawala2.jpg"],
+      photos: ["/gallery/chittibabugallery.jpg", "/gallery/chittibabugallery2.jpg"],
     },
   ],
-  projects: [
-    {
-      id: 1,
-      caption:
-        "It’s an AI-powered tool that understands what someone might be feeling based on their words.",
-      photos: ["/gallery/m.png", "/gallery/m2.jpeg"],
-    },
-    
-    {
-      id: 1,
-      caption:
-        "📂ProfileX - Smart Data Profiler + Preprocessor",
-      photos: ["/gallery/profilex.jpeg", "/gallery/profilex2.jpeg","/gallery/profilex3.jpeg", "/gallery/profilex4.jpeg"],
-    },
-  ],
-  achievements: [
-    {
-      id: 1,
-      caption: "Solved 1000 LeetCode questions 🏆!",
-      photos: ["/gallery/leet.jpeg"],
-    },
-    {
-      id: 2,
-      caption: "Technical Lead at SCET AI Club 🤖",
-      photos: ["/gallery/techlead.png"],
-    },
-  ],
+
 };
 
 // ✨ Animation Variants
