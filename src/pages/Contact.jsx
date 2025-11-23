@@ -71,7 +71,7 @@ export default function Contact() {
     { img: linkedinLogo, title: "LinkedIn", link: "https://www.linkedin.com/in/rchittibabu/" },
     { img: gmailLogo, title: "Email", link: "mailto:rchittibaburoyal@gmail.com" },
     { img: whatsappLogo, title: "WhatsApp", link: "https://wa.me/+919381083792" },
-    { img: instagramLogo, title: "Instagram", link: "https://www.instagram.com/ajayroyal_1114/" },
+    { img: instagramLogo, title: "Instagram", link: "https://www.instagram.com/ajayroyal._.1114/" },
     { img: facebookLogo, title: "Facebook", link: "https://www.facebook.com/ajay.aa.7549" },
   ];
 

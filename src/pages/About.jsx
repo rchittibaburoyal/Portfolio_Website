@@ -73,7 +73,7 @@ const AboutMe = () => {
         <p>
             MCA student with hands-on experience in full-stack development, problem-solving, and building real-world projects. 
             Skilled in Python, JavaScript, React, Django, and database management, along with strong fundamentals in software engineering.
-             I’m seeking internship opportunities to apply my skills and contribute to impactful software solutions
+             I’m seeking job opportunities to apply my skills and contribute to impactful software solutions
         </p>
 
         {/* --- Education Section --- */}

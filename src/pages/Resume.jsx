@@ -53,16 +53,16 @@ export default function Resume() {
         >
           <div>
             <h3 style={{ fontSize: 24, color: "#00b4ff", marginBottom: 4 }}>
-              👨‍💻 KUNJ D. DESAI
+              👨‍💻 R Chitti Babu
             </h3>
             <p style={{ margintop: 10, fontSize: 15, color: "#ccc" }}>
-              4th Year B.Tech — AI & Data Science | S.C.E.T, Sarvajanik University
+              Master of Computer Application | SVPCET, J.N.T University
             </p>
             <p style={{ margin: "4px 0", fontSize: 14, color: "#aaa" }}>
-              📍 Jahangirpura, Surat, Gujarat
+              📍 Velachery, Chennai, Tamil Nadu
             </p>
             <p style={{ margin: "4px 0", fontSize: 14, color: "#aaa" }}>
-              ✉️ kunjd2803@gmail.com | 📞 +91 8758209508
+              ✉️ rchittibaburoyal@gmail.com | 📞 +91 9381083792
             </p>
           </div>
 
@@ -80,10 +80,9 @@ export default function Resume() {
           >
             <strong style={{ color: "#00b4ff" }}>Professional Summary:</strong>
             <p style={{ marginTop: 6, color: "#ccc" }}>
-              4th-year B.Tech AI student experienced in ML, DL, and computer vision.
-              Skilled in Python, TensorFlow, PyTorch, and Scikit-learn. Passionate about
-              building impactful AI systems and seeking opportunities to contribute to
-              real-world AI projects.
+              Hi, I’m R Chitti Babu — an aspiring Full-Stack Software Engineer and Machine Learning enthusiast.hands-on experience in full-stack development, problem-solving, and building real-world projects. 
+            Skilled in Python, JavaScript, React, Django, and database management, along with strong fundamentals in software engineering.
+            
             </p>
           </motion.div>
         </motion.div>
@@ -106,19 +105,24 @@ export default function Resume() {
           </h4>
           <ul style={{ listStyle: "none", padding: 0, margin: 0, lineHeight: 1.8 }}>
             <li>
-              <strong>B.Tech in Artificial Intelligence & Data Science</strong> — S.C.E.T
-              (Sarvajanik University), 2022–2026 <br />
-              <span style={{ color: "#aaa" }}>GPA: 9.0</span>
+              <strong>Master of Computer Application</strong> — SVPCET
+              (JNT University), 2023–2025 <br />
+              <span style={{ color: "#aaa" }}>GPA: 8.37</span>
+            </li>
+            <li>
+              <strong>Bachelor of Science</strong> — PVKN Govt Degree College
+              (SV University), 2020–2023 <br />
+              <span style={{ color: "#aaa" }}>GPA: 7.6</span>
             </li>
             <li style={{ marginTop: 8 }}>
-              <strong>12th Board — R.S.M. Poonawala Experimental School</strong> (Gujarat
-              Board, 2022) <br />
-              <span style={{ color: "#aaa" }}>Percentage: 78%</span>
+              <strong>12th Board — Himaja Junior College</strong> (Andhra Pradesh
+              Board, 2020) <br />
+              <span style={{ color: "#aaa" }}>CGPA: 7.9</span>
             </li>
             <li style={{ marginTop: 8 }}>
-              <strong>10th Board — Ambika Niketan School</strong> (Gujarat Board, 2020)
+              <strong>10th Board — Govt High School</strong> (Andhra Pradesh Board, 2018)
               <br />
-              <span style={{ color: "#aaa" }}>Percentage: 85%</span>
+              <span style={{ color: "#aaa" }}>CGPA: 8.7</span>
             </li>
           </ul>
         </motion.div>
@@ -132,10 +136,8 @@ export default function Resume() {
         >
           <h4 style={{ fontSize: 20, color: "#00b4ff", marginBottom: 12 }}>💼 Projects</h4>
           <ul style={{ listStyle: "none", padding: 0, margin: 0, lineHeight: 1.8 }}>
-            <li>1️⃣ Breast Cancer Detection from Mammograms using YOLO & CNN</li>
-            <li>2️⃣ DocuChat: Document Q&A Chatbot (Gemini API)</li>
-            <li>3️⃣ Indian Sign Language Interpreter (In Progress)</li>
-            <li>4️⃣ Mental Health Analyzer</li>
+            <li>1️⃣ Portfolio Website</li>
+            <li>2️⃣ Fusion-Based AI Model for Early Risk Assessment of Metabolic Disorders</li>
           </ul>
         </motion.div>
 
@@ -150,20 +152,13 @@ export default function Resume() {
           <div style={{ display: "flex", flexWrap: "wrap", gap: 10 }}>
             {[
               "Python",
-              "C",
-              "C++",
               "Java",
-              "TensorFlow",
-              "PyTorch",
-              "Scikit-learn",
-              "OpenCV",
-              "YOLO",
-              "Streamlit",
-              "React",
+              "JavaScript",
+              "React js",
+              "Django",
               "MySQL",
               "MongoDB",
               "Git",
-              "NLP",
               "Explainable AI (XAI)",
               "Problem Solving",
               "Teamwork",
@@ -198,9 +193,8 @@ export default function Resume() {
           }}
         >
           {[
-            { name: "🏆 LeetCode", link: "https://leetcode.com/u/Kunj_2803/" },
-            { name: "💻 GitHub", link: "https://github.com/kunj2803" },
-            { name: "💼 LinkedIn", link: "https://www.linkedin.com/in/kunj-desai-07717b293/" },
+            { name: "💻 GitHub", link: "https://github.com/rchittibaburoyal" },
+            { name: "💼 LinkedIn", link: "https://www.linkedin.com/in/rchittibabu/" },
           ].map((site) => (
             <motion.a
               key={site.name}
@@ -234,7 +228,7 @@ export default function Resume() {
         >
           <iframe
             src="/resume.pdf"
-            title="Kunj Desai Resume"
+            title="R Chitti Babu Resume"
             style={{
               width: "100%",
               height: "650px",
