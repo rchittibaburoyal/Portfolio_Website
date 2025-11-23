@@ -69,10 +69,10 @@ export default function Contact() {
   const quickLinks = [
     { img: githubLogo, title: "GitHub", link: "https://github.com/rchittibaburoyal" },
     { img: linkedinLogo, title: "LinkedIn", link: "https://www.linkedin.com/in/rchittibabu/" },
-    { img: gmailLogo, title: "Email", link: "mailto:kunjd2803@gmail.com" },
-    { img: whatsappLogo, title: "WhatsApp", link: "https://wa.me/+918758209508" },
-    { img: instagramLogo, title: "Instagram", link: "https://www.instagram.com/kunj_2834/" },
-    { img: facebookLogo, title: "Facebook", link: "https://www.facebook.com/kunj.desai.222608" },
+    { img: gmailLogo, title: "Email", link: "mailto:rchittibaburoyal@gmail.com" },
+    { img: whatsappLogo, title: "WhatsApp", link: "https://wa.me/+919381083792" },
+    { img: instagramLogo, title: "Instagram", link: "https://www.instagram.com/ajayroyal_1114/" },
+    { img: facebookLogo, title: "Facebook", link: "https://www.facebook.com/ajay.aa.7549" },
   ];
 
   return (
