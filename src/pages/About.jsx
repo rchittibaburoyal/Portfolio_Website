@@ -56,12 +56,10 @@ const AboutMe = () => {
             marginBottom: "1rem",
           }}
         >
-          Hi, I’m <strong>Kunj Desai</strong> — an aspiring{" "}
-          <strong>Artificial Intelligence Engineer</strong> and{" "}
-          <strong>Machine Learning enthusiast</strong> who loves turning ideas
-          into intelligent systems. I’m deeply fascinated by how data and
-          algorithms can shape the future of healthcare, automation, and
-          creativity in technology.
+          Hi, I’m <strong>R Chitti Babu</strong> — an aspiring{" "}
+          <strong>Full-Stack Software Engineer</strong> and{" "}
+          <strong>Machine Learning enthusiast.</strong> Software Developer who turns ideas into reliable, efficient, and user-friendly applications.
+           I’m passionate about solving real-world problems through clean code, smart design, and modern technologies.
         </p>
 
         <p style={{ fontSize: "1.1rem", color: "rgba(255,255,255,0.8)" }}>
@@ -73,8 +71,9 @@ const AboutMe = () => {
         </p>
 
         <p>
-            4th-year B.Tech AI Engineering student with hands-on experience in ML & DL Projects. Proficient in Python, scikitlearn,pytorch,tensorflow and data preprocessing. Seeking internship opportunities to apply skills and contribute to
-            impactful AI solutions.
+            MCA student with hands-on experience in full-stack development, problem-solving, and building real-world projects. 
+            Skilled in Python, JavaScript, React, Django, and database management, along with strong fundamentals in software engineering.
+             I’m seeking internship opportunities to apply my skills and contribute to impactful software solutions
         </p>
 
         {/* --- Education Section --- */}
@@ -131,7 +130,7 @@ const AboutMe = () => {
                     fontSize: "1.25rem",
                   }}
                 >
-                  B.Tech in Artificial Intelligence and Data Science
+                  Master of Computer Application
                 </h4>
                 <p
                   style={{
@@ -139,13 +138,13 @@ const AboutMe = () => {
                     marginBottom: "0.2rem",
                   }}
                 >
-                  <strong>S.C.E.T (Sarvajanik University)</strong> — Surat,
-                  Gujarat
+                  <strong>Sri Venkatesa Perumal College of Engineering and Technology (Jawaharlal Nehru Technological University)</strong> — Anantapur,
+                  Andhra Pradesh
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
-                  4th Year (Pursuing) | GPA: 9.0
+                  Completed | GPA: 8.37
                 </p>
-                <p style={{ color: "rgba(255,255,255,0.7)" }}>2022 – 2026</p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>2023 – 2025</p>
               </div>
             </motion.div>
 
@@ -167,7 +166,7 @@ const AboutMe = () => {
                 gap: "1.2rem",
               }}
             >
-              <FaGraduationCap size={38} color="var(--accent)" />
+            <FaUniversity size={38} color="var(--accent)" />
               <div>
                 <h4
                   style={{
@@ -176,7 +175,7 @@ const AboutMe = () => {
                     fontSize: "1.25rem",
                   }}
                 >
-                  Higher Secondary Education (12th Grade)
+                  Bachelor of Science
                 </h4>
                 <p
                   style={{
@@ -184,13 +183,13 @@ const AboutMe = () => {
                     marginBottom: "0.2rem",
                   }}
                 >
-                  <strong>R.S.M. Poonawala Experimental School</strong> — Ambika
-                  Niketan, Surat
+                  <strong>PVKN Govt Degree College (Sri Venkateswara University)</strong> — Tirupathi,
+                  Andhra Pradesh
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
-                  Gujarat Board | Percentage: 78%
+                  Completed | GPA: 7.6
                 </p>
-                <p style={{ color: "rgba(255,255,255,0.7)" }}>Completed in 2022</p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>2020 – 2023</p>
               </div>
             </motion.div>
 
@@ -212,7 +211,51 @@ const AboutMe = () => {
                 gap: "1.2rem",
               }}
             >
-              <FaSchool size={36} color="var(--accent)" />
+              <FaGraduationCap size={36} color="var(--accent)" />
+              <div>
+                <h4
+                  style={{
+                    color: "var(--accent)",
+                    marginBottom: "0.4rem",
+                    fontSize: "1.25rem",
+                  }}
+                >
+                  Higher Secondary Education (12th Grade)
+                </h4>
+                <p
+                  style={{
+                    color: "rgba(255,255,255,0.85)",
+                    marginBottom: "0.2rem",
+                  }}
+                >
+                  <strong>Himaja Junior College</strong> — Kalayanipuram, Puttur
+                </p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>
+                  Andhra Pradesh Board | CGPa: 7.96
+                </p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>Completed in 2020</p>
+              </div>
+            </motion.div>
+
+            {/* --- Education Card 4 --- */}
+            <motion.div
+              whileHover={{
+                scale: 1.02,
+                boxShadow: "0 0 25px rgba(0,255,200,0.15)",
+              }}
+              transition={{ duration: 0.3 }}
+              style={{
+                background: "rgba(255,255,255,0.05)",
+                borderRadius: "14px",
+                padding: "1.5rem 2rem",
+                border: "1px solid rgba(255,255,255,0.08)",
+                boxShadow: "0 0 15px rgba(0,255,200,0.05)",
+                display: "flex",
+                alignItems: "center",
+                gap: "1.2rem",
+              }}
+            >
+              <FaSchool size={34} color="var(--accent)" />
               <div>
                 <h4
                   style={{
@@ -229,13 +272,13 @@ const AboutMe = () => {
                     marginBottom: "0.2rem",
                   }}
                 >
-                  <strong>R.S.M. Poonawala Experimental School</strong> — Surat,
-                  Gujarat
+                  <strong>Govt High School</strong> — Nagalapuram,
+                  Andhra Pradesh
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
-                  Gujarat Board | Percentage: 69%
+                  Andhra Pradesh Board | CGPA: 8.7
                 </p>
-                <p style={{ color: "rgba(255,255,255,0.7)" }}>Completed in 2020</p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>Completed in 2018</p>
               </div>
             </motion.div>
           </div>
