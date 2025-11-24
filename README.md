@@ -2,7 +2,7 @@
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **Software Developer, and Web Technologies**.
 
-🌐 **Website:** [[[portfolio_website]]](https://rchittibaburoyal.vercel.app/)
+🌐 **Website:** [[[portfolio-website]]](https://rchittibaburoyal.vercel.app/)
 
 🖼️ **Screenshots**
 <img width="1902" height="994" alt="image" src="https://github.com/user-attachments/assets/project1.jpg" />
