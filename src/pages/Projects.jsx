@@ -6,7 +6,7 @@ const PROJECTS = [
   {
     title: 'PortFolio Website',
     desc: 'React Developer skilled in JavaScript, HTML, and CSS. I build fast, responsive, and user-friendly web interfaces using clean code and modern UI practices.',
-    ss: '/IMG_20251123_225453.jpg',
+    ss: '/project1.jpg',
     tech: ['React js', 'JavaScript', 'CSS', 'HTML'],
     live: '#',
     code: 'https://github.com/rchittibaburoyal/portfolio_Website'
