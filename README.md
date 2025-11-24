@@ -2,7 +2,7 @@
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **Software Developer, and Web Technologies**.
 
-🌐 **Website:** [[[R Chitti Babu-Portfolio]]](https://rchittibaburoyal.vercel.app/)
+🌐 **Website:** [[[Portfolio_Website]]](https://rchittibaburoyal.vercel.app/)
 
 🖼️ **Screenshots**
 <img width="1902" height="994" alt="image" src="https://github.com/user-attachments/assets/project1.jpg" />
@@ -60,7 +60,7 @@ Now open [http://localhost:5173/](http://localhost:5173/) in your browser 🚀
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
 * 📧 **Email:** [rchittibaburoyal@gmail.com](mailto:rchittibaburoyal@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/rchittibabu/)
+* 💼 **LinkedIn:** [linkedin.com/in/rchittibabu](https://www.linkedin.com/in/rchittibabu/)
 
 ---
 
