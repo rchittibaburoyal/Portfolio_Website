@@ -27,8 +27,6 @@ const ROWS = [
         "Data Structures & Algorithms",
         "Machine Learning",
         "Deep Learning",
-        "YOLO Object Detection",
-        "Explainable AI (XAI)",
       ],
     },
     {

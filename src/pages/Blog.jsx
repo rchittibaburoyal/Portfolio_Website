@@ -8,7 +8,7 @@ export default function Blog() {
     {
       id: 1,
       title: "Why I Love Building Software Projects",
-      text: "Working on Software-based systems like mammogram cancer detection has taught me how impactful technology can be when applied to healthcare. Combining deep learning with real-world problems is my favorite way to innovate.",
+      text: "Working on Software-based systems like Metabolic Disorders detection has taught me how impactful technology can be when applied to healthcare. Combining deep learning with real-world problems is my favorite way to innovate.",
     },
     {
       id: 2,

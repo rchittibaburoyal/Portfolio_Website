@@ -4,19 +4,19 @@ import { Github, ExternalLink } from 'lucide-react'
 
 const PROJECTS = [
   {
-    title: '🩺 Mammogram Malignancy Detector',
-    desc: 'Hybrid CNN + YOLOv8 ensemble for full-image breast cancer detection with ROI preprocessing and sliding-window inference.',
-    ss: '/mamo.png',
-    tech: ['TensorFlow', 'Keras', 'OpenCV', 'YOLOv8'],
+    title: 'PortFolio Website',
+    desc: 'React Developer skilled in JavaScript, HTML, and CSS. I build fast, responsive, and user-friendly web interfaces using clean code and modern UI practices.',
+    ss: '/IMG_20251123_225453.jpg',
+    tech: ['React js', 'JavaScript', 'CSS', 'HTML'],
     live: '#',
-    code: 'https://github.com/kunjdesai/mammo-detector'
+    code: 'https://github.com/rchittibaburoyal/portfolio_Website'
   },
   {
     title: 'Fusion-Based AI Model for Early Risk Assessment of Metabolic Disorders',
     desc: `Designed and developed an Ensemble Deep learning (EDL) system integrating ANN, CNN, LSTM, and Hybrid CNN+LSTM models for early diabetes risk prediction.
     Developed the applications using Anaconda Software, Python for primary language, JavaScript for frontend framework, Django for Backend framework, MySQL for the Database,
      delivering ascalable and user-friendly clinical decision support system.`,
-    ss: '/project.jpg',
+    ss: '/project2.jpg',
     tech: ['Python', 'JavaScript', 'Ensemble Deep Learning', 'Machine Learning'],
     live: '#',
     code: 'https://zenodo.org/records/15845138'
