@@ -8,11 +8,11 @@ const PROJECTS = [
     desc: 'Designed and developed a full-featured banking system using Django with real-time transactions, multi-account support (Savings, Current, Business), monthly interest scheduling with Celery, and deployment on cloud hosting.',
     ss: '/project3.jpg',
     tech: ['Python', 'Django','SQLite/MySQL','HTML','CSS','Bootstrap','Celery','Git','Render'],
-    live: '#',
+    live: 'https://banking-system-7cft.onrender.com',
     code: 'https://github.com/rchittibaburoyal/banking-system-master'
   },
   {
-    title: 'PortFolio Website',
+    title: 'Portfolio Website',
     desc: 'React Developer skilled in JavaScript, HTML, and CSS. I build fast, responsive, and user-friendly web interfaces using clean code and modern UI practices.',
     ss: '/project1.jpg',
     tech: ['React js', 'JavaScript', 'CSS', 'HTML'],
@@ -21,9 +21,7 @@ const PROJECTS = [
   },
   {
     title: 'Fusion-Based AI Model for Early Risk Assessment of Metabolic Disorders',
-    desc: `Designed and developed an Ensemble Deep learning (EDL) system integrating ANN, CNN, LSTM, and Hybrid CNN+LSTM models for early diabetes risk prediction.
-    Developed the applications using Anaconda Software, Python for primary language, JavaScript for frontend framework, Django for Backend framework, MySQL for the Database,
-     delivering ascalable and user-friendly clinical decision support system.`,
+    desc: 'Designed and developed an Ensemble Deep learning (EDL) system integrating ANN, CNN, LSTM, and Hybrid CNN+LSTM models for early diabetes risk prediction.Developed the applications using Anaconda Software, Python for primary language, JavaScript for frontend framework, Django for Backend framework, MySQL for the Database, delivering ascalable and user-friendly clinical decision support system.',
     ss: '/project2.jpg',
     tech: ['Python', 'JavaScript', 'Ensemble Deep Learning', 'Machine Learning'],
     live: '#',
