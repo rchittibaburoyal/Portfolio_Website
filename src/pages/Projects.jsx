@@ -4,6 +4,14 @@ import { Github, ExternalLink } from 'lucide-react'
 
 const PROJECTS = [
   {
+    title: 'Banking System Website',
+    desc: 'Designed and developed a full-featured banking system using Django with real-time transactions, multi-account support (Savings, Current, Business), monthly interest scheduling with Celery, and deployment on cloud hosting.',
+    ss: '/project3.jpg',
+    tech: ['Python', 'Django','SQLite/MySQL','HTML','CSS','Bootstrap','Celery','Git','Render'],
+    live: '#',
+    code: 'https://github.com/rchittibaburoyal/banking-system-master'
+  },
+  {
     title: 'PortFolio Website',
     desc: 'React Developer skilled in JavaScript, HTML, and CSS. I build fast, responsive, and user-friendly web interfaces using clean code and modern UI practices.',
     ss: '/project1.jpg',
